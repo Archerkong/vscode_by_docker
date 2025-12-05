@@ -1,2 +1,2 @@
 # vscode_by_docker
-vscode_by_docker
+用来解决不想手动部署vscode的懒人
